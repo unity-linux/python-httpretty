@@ -1,7 +1,4 @@
-%if 0%{?fedora}
-# escaping for EPEL.
 %global with_python3 1
-%endif
 
 %global github_owner    gabrielfalcao
 %global github_name     HTTPretty
